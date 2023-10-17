@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ObjectDetectionML</string>
+    <string name="permission_needed">Hi..\n\nFor this app camera permission is needed as we are detection objects through camera</string>
+    <string name="request_permission">Check Permissions</string>
+</resources>
